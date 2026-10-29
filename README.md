@@ -24,23 +24,17 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <strong>🏠 হোম স্ক্রিন ও টাস্ক তালিকা</strong><br/><br/>
-        <img src="./screenshots/screenshot1.png" alt="Home Screen" width="320" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" onerror="this.src='./assets/icon.png';" />
+      <td align="center" width="33.33%">
+        <strong>🏠 হোম স্ক্রিন ও কাজের তালিকা</strong><br/><br/>
+        <img src="./screenshots/screenshot1.png" alt="Home Screen" width="260" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
       </td>
-      <td align="center" width="50%">
-        <strong>✨ নতুন কাজ যোগ করার মোডাল</strong><br/><br/>
-        <img src="./screenshots/screenshot2.png" alt="Add Task Modal" width="320" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" onerror="this.src='./assets/icon.png';" />
+      <td align="center" width="33.33%">
+        <strong>✨ নতুন টাস্ক যুক্ত</strong><br/><br/>
+        <img src="./screenshots/screenshot2.png" alt="Add Task Modal" width="260" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <strong>🔍 সার্চ ও ক্যাটাগরি ফিল্টার</strong><br/><br/>
-        <img src="./screenshots/screenshot3.png" alt="Search & Filter" width="320" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" onerror="this.src='./assets/icon.png';" />
-      </td>
-      <td align="center" width="50%">
-        <strong>📊 স্ট্যাটিস্টিকস ও পেজিনেশন</strong><br/><br/>
-        <img src="./screenshots/screenshot4.png" alt="Stats & Pagination" width="320" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" onerror="this.src='./assets/icon.png';" />
+      <td align="center" width="33.33%">
+        <strong>🚀 Expo সার্ভার রান (<code>npx expo start</code>)</strong><br/><br/>
+        <img src="./screenshots/screenshot3.png" alt="Expo Start Terminal" width="260" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
       </td>
     </tr>
   </table>
